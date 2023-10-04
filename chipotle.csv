@@ -1,0 +1,227 @@
+item_id,company_name,item_name,protein_option,price,description,added_date,last_modified_date,discontinued_date
+1,chipotle,BURRITO,Carne Asada,11.2,none,2023-09-29,2023-09-29,none
+2,chipotle,BURRITO,Chicken,8.2,none,2023-09-29,2023-09-29,none
+3,chipotle,BURRITO,Steak,9.95,none,2023-09-29,2023-09-29,none
+4,chipotle,BURRITO,Barbacoa,9.95,none,2023-09-29,2023-09-29,none
+5,chipotle,BURRITO,Carnitas,8.85,none,2023-09-29,2023-09-29,none
+6,chipotle,BURRITO,Sofritas,8.2,none,2023-09-29,2023-09-29,none
+7,chipotle,BURRITO,Veggie,8.2,none,2023-09-29,2023-09-29,none
+8,chipotle,BURRITO,Guacamole,2.6,none,2023-09-29,2023-09-29,none
+9,chipotle,BURRITO,Queso Blanco,1.45,none,2023-09-29,2023-09-29,none
+10,chipotle,BURRITO,Double Wrap with Tortilla,0.5,none,2023-09-29,2023-09-29,none
+11,chipotle,BURRITO,Chips,1.7,none,2023-09-29,2023-09-29,none
+12,chipotle,BURRITO,Chips & Guacamole,4.3,none,2023-09-29,2023-09-29,none
+13,chipotle,BURRITO,Large Chips & Large Guacamole,7.65,none,2023-09-29,2023-09-29,none
+14,chipotle,BURRITO,Chips & Fresh Tomato Salsa,2.15,none,2023-09-29,2023-09-29,none
+15,chipotle,BURRITO,Chips & Tomatillo-Red Chili Salsa,2.15,none,2023-09-29,2023-09-29,none
+16,chipotle,BURRITO,Chips & Tomatillo-Green Chili Salsa,2.15,none,2023-09-29,2023-09-29,none
+17,chipotle,BURRITO,Chips & Roasted Chili-Corn Salsa,2.15,none,2023-09-29,2023-09-29,none
+18,chipotle,BURRITO,Chips & Queso Blanco,4.3,none,2023-09-29,2023-09-29,none
+19,chipotle,BURRITO,Large Chips & Large Queso Blanco,7.65,none,2023-09-29,2023-09-29,none
+20,chipotle,BURRITO,Side of Guacamole,2.6,none,2023-09-29,2023-09-29,none
+21,chipotle,BURRITO,Large Side of Guacamole,5.2,none,2023-09-29,2023-09-29,none
+22,chipotle,BURRITO,Side of Queso Blanco,2.6,none,2023-09-29,2023-09-29,none
+23,chipotle,BURRITO,Large Side of Queso Blanco,5.2,none,2023-09-29,2023-09-29,none
+24,chipotle,BURRITO,Tortilla on the Side,0.5,none,2023-09-29,2023-09-29,none
+25,chipotle,BURRITO,Fountain Drink,2.9,none,2023-09-29,2023-09-29,none
+26,chipotle,BURRITO,Mexican Coca-Cola,3.15,none,2023-09-29,2023-09-29,none
+27,chipotle,BURRITO,Mexican Sprite,3.15,none,2023-09-29,2023-09-29,none
+28,chipotle,BURRITO,Tractor Organic Black Tea,3.2,none,2023-09-29,2023-09-29,none
+29,chipotle,BURRITO,Tractor Organic Lemonade,3.2,none,2023-09-29,2023-09-29,none
+30,chipotle,BURRITO,San Pellegrino Sparkling ,2.85,none,2023-09-29,2023-09-29,none
+31,chipotle,BURRITO,Blackberry Izze,2.95,none,2023-09-29,2023-09-29,none
+32,chipotle,BURRITO,Grapefruit Izze,2.95,none,2023-09-29,2023-09-29,none
+33,chipotle,BURRITO,Bottled Water,2.65,none,2023-09-29,2023-09-29,none
+34,chipotle,BURRITO,Apple Juice,2.95,none,2023-09-29,2023-09-29,none
+35,chipotle,BURRITO,Peach Orange Juice,2.95,none,2023-09-29,2023-09-29,none
+36,chipotle,BURRITO,Pineapple Orange Banana Juice,2.95,none,2023-09-29,2023-09-29,none
+37,chipotle,BURRITO-BOWL,Carne Asada,11.2,none,2023-09-29,2023-09-29,none
+38,chipotle,BURRITO-BOWL,Chicken,8.2,none,2023-09-29,2023-09-29,none
+39,chipotle,BURRITO-BOWL,Steak,9.95,none,2023-09-29,2023-09-29,none
+40,chipotle,BURRITO-BOWL,Barbacoa,9.95,none,2023-09-29,2023-09-29,none
+41,chipotle,BURRITO-BOWL,Carnitas,8.85,none,2023-09-29,2023-09-29,none
+42,chipotle,BURRITO-BOWL,Sofritas,8.2,none,2023-09-29,2023-09-29,none
+43,chipotle,BURRITO-BOWL,Veggie,8.2,none,2023-09-29,2023-09-29,none
+44,chipotle,BURRITO-BOWL,Guacamole,2.6,none,2023-09-29,2023-09-29,none
+45,chipotle,BURRITO-BOWL,Queso Blanco,1.45,none,2023-09-29,2023-09-29,none
+46,chipotle,BURRITO-BOWL,Chips,1.7,none,2023-09-29,2023-09-29,none
+47,chipotle,BURRITO-BOWL,Chips & Guacamole,4.3,none,2023-09-29,2023-09-29,none
+48,chipotle,BURRITO-BOWL,Large Chips & Large Guacamole,7.65,none,2023-09-29,2023-09-29,none
+49,chipotle,BURRITO-BOWL,Chips & Fresh Tomato Salsa,2.15,none,2023-09-29,2023-09-29,none
+50,chipotle,BURRITO-BOWL,Chips & Tomatillo-Red Chili Salsa,2.15,none,2023-09-29,2023-09-29,none
+51,chipotle,BURRITO-BOWL,Chips & Tomatillo-Green Chili Salsa,2.15,none,2023-09-29,2023-09-29,none
+52,chipotle,BURRITO-BOWL,Chips & Roasted Chili-Corn Salsa,2.15,none,2023-09-29,2023-09-29,none
+53,chipotle,BURRITO-BOWL,Chips & Queso Blanco,4.3,none,2023-09-29,2023-09-29,none
+54,chipotle,BURRITO-BOWL,Large Chips & Large Queso Blanco,7.65,none,2023-09-29,2023-09-29,none
+55,chipotle,BURRITO-BOWL,Side of Guacamole,2.6,none,2023-09-29,2023-09-29,none
+56,chipotle,BURRITO-BOWL,Large Side of Guacamole,5.2,none,2023-09-29,2023-09-29,none
+57,chipotle,BURRITO-BOWL,Side of Queso Blanco,2.6,none,2023-09-29,2023-09-29,none
+58,chipotle,BURRITO-BOWL,Large Side of Queso Blanco,5.2,none,2023-09-29,2023-09-29,none
+59,chipotle,BURRITO-BOWL,Tortilla on the Side,0.5,none,2023-09-29,2023-09-29,none
+60,chipotle,BURRITO-BOWL,Fountain Drink,2.9,none,2023-09-29,2023-09-29,none
+61,chipotle,BURRITO-BOWL,Mexican Coca-Cola,3.15,none,2023-09-29,2023-09-29,none
+62,chipotle,BURRITO-BOWL,Mexican Sprite,3.15,none,2023-09-29,2023-09-29,none
+63,chipotle,BURRITO-BOWL,Tractor Organic Black Tea,3.2,none,2023-09-29,2023-09-29,none
+64,chipotle,BURRITO-BOWL,Tractor Organic Lemonade,3.2,none,2023-09-29,2023-09-29,none
+65,chipotle,BURRITO-BOWL,San Pellegrino Sparkling ,2.85,none,2023-09-29,2023-09-29,none
+66,chipotle,BURRITO-BOWL,Blackberry Izze,2.95,none,2023-09-29,2023-09-29,none
+67,chipotle,BURRITO-BOWL,Grapefruit Izze,2.95,none,2023-09-29,2023-09-29,none
+68,chipotle,BURRITO-BOWL,Bottled Water,2.65,none,2023-09-29,2023-09-29,none
+69,chipotle,BURRITO-BOWL,Apple Juice,2.95,none,2023-09-29,2023-09-29,none
+70,chipotle,BURRITO-BOWL,Peach Orange Juice,2.95,none,2023-09-29,2023-09-29,none
+71,chipotle,BURRITO-BOWL,Pineapple Orange Banana Juice,2.95,none,2023-09-29,2023-09-29,none
+72,chipotle,LIFESTYLE BOWL,Balanced Macros Bowl,$10.80,none,2023-09-29,2023-09-29,none
+73,chipotle,LIFESTYLE BOWL,Wholesome Bowl with Carne Asada,$13.80,none,2023-09-29,2023-09-29,none
+74,chipotle,LIFESTYLE BOWL,Wholesome Bowl,$10.80,none,2023-09-29,2023-09-29,none
+75,chipotle,LIFESTYLE BOWL,Grain Freedom Bowl,$8.20,none,2023-09-29,2023-09-29,none
+76,chipotle,LIFESTYLE BOWL,High Protein Bowl,$11.20,none,2023-09-29,2023-09-29,none
+77,chipotle,LIFESTYLE BOWL,Veggie Full Bowl,$8.20,none,2023-09-29,2023-09-29,none
+78,chipotle,LIFESTYLE BOWL,Plant Powered Bowl,$10.80,none,2023-09-29,2023-09-29,none
+79,chipotle,LIFESTYLE BOWL,Go Half Veggie Bowl,$8.20,none,2023-09-29,2023-09-29,none
+80,chipotle,QUESADILLA,Carne Asada,11.75,none,2023-09-29,2023-09-29,none
+81,chipotle,QUESADILLA,Chicken,8.75,none,2023-09-29,2023-09-29,none
+82,chipotle,QUESADILLA,Steak,10.5,none,2023-09-29,2023-09-29,none
+83,chipotle,QUESADILLA,Barbacoa,10.5,none,2023-09-29,2023-09-29,none
+84,chipotle,QUESADILLA,Carnitas,9.4,none,2023-09-29,2023-09-29,none
+85,chipotle,QUESADILLA,Sofritas,8.75,none,2023-09-29,2023-09-29,none
+86,chipotle,QUESADILLA,Cheese Only,8.75,none,2023-09-29,2023-09-29,none
+87,chipotle,QUESADILLA,Guacamole,2.6,none,2023-09-29,2023-09-29,none
+88,chipotle,QUESADILLA,Queso Blanco,2.6,none,2023-09-29,2023-09-29,none
+89,chipotle,QUESADILLA,Chips,1.7,none,2023-09-29,2023-09-29,none
+90,chipotle,QUESADILLA,Chips & Guacamole,4.3,none,2023-09-29,2023-09-29,none
+91,chipotle,QUESADILLA,Large Chips & Large Guacamole,7.65,none,2023-09-29,2023-09-29,none
+92,chipotle,QUESADILLA,Chips & Fresh Tomato Salsa,2.15,none,2023-09-29,2023-09-29,none
+93,chipotle,QUESADILLA,Chips & Tomatillo-Red Chili Salsa,2.15,none,2023-09-29,2023-09-29,none
+94,chipotle,QUESADILLA,Chips & Tomatillo-Green Chili Salsa,2.15,none,2023-09-29,2023-09-29,none
+95,chipotle,QUESADILLA,Chips & Roasted Chili-Corn Salsa,2.15,none,2023-09-29,2023-09-29,none
+96,chipotle,QUESADILLA,Chips & Queso Blanco,4.3,none,2023-09-29,2023-09-29,none
+97,chipotle,QUESADILLA,Large Chips & Large Queso Blanco,7.65,none,2023-09-29,2023-09-29,none
+98,chipotle,QUESADILLA,Side of Guacamole,2.6,none,2023-09-29,2023-09-29,none
+99,chipotle,QUESADILLA,Large Side of Guacamole,5.2,none,2023-09-29,2023-09-29,none
+100,chipotle,QUESADILLA,Side of Queso Blanco,2.6,none,2023-09-29,2023-09-29,none
+101,chipotle,QUESADILLA,Large Side of Queso Blanco,5.2,none,2023-09-29,2023-09-29,none
+102,chipotle,QUESADILLA,Tortilla on the Side,0.5,none,2023-09-29,2023-09-29,none
+103,chipotle,QUESADILLA,Fountain Drink,2.9,none,2023-09-29,2023-09-29,none
+104,chipotle,QUESADILLA,Mexican Coca-Cola,3.15,none,2023-09-29,2023-09-29,none
+105,chipotle,QUESADILLA,Mexican Sprite,3.15,none,2023-09-29,2023-09-29,none
+106,chipotle,QUESADILLA,Tractor Organic Black Tea,3.2,none,2023-09-29,2023-09-29,none
+107,chipotle,QUESADILLA,Tractor Organic Lemonade,3.2,none,2023-09-29,2023-09-29,none
+108,chipotle,QUESADILLA,San Pellegrino Sparkling ,2.85,none,2023-09-29,2023-09-29,none
+109,chipotle,QUESADILLA,Blackberry Izze,2.95,none,2023-09-29,2023-09-29,none
+110,chipotle,QUESADILLA,Grapefruit Izze,2.95,none,2023-09-29,2023-09-29,none
+111,chipotle,QUESADILLA,Bottled Water,2.65,none,2023-09-29,2023-09-29,none
+112,chipotle,QUESADILLA,Apple Juice,2.95,none,2023-09-29,2023-09-29,none
+113,chipotle,QUESADILLA,Peach Orange Juice,2.95,none,2023-09-29,2023-09-29,none
+114,chipotle,QUESADILLA,Pineapple Orange Banana Juice,2.95,none,2023-09-29,2023-09-29,none
+115,chipotle,SALAD,Carne Asada,11.2,none,2023-09-29,2023-09-29,none
+116,chipotle,SALAD,Chicken,8.2,none,2023-09-29,2023-09-29,none
+117,chipotle,SALAD,Steak,9.95,none,2023-09-29,2023-09-29,none
+118,chipotle,SALAD,Barbacoa,9.95,none,2023-09-29,2023-09-29,none
+119,chipotle,SALAD,Carnitas,8.85,none,2023-09-29,2023-09-29,none
+120,chipotle,SALAD,Sofritas,8.2,none,2023-09-29,2023-09-29,none
+121,chipotle,SALAD,Veggie,8.2,none,2023-09-29,2023-09-29,none
+122,chipotle,SALAD,Guacamole,2.6,none,2023-09-29,2023-09-29,none
+123,chipotle,SALAD,Queso Blanco,1.45,none,2023-09-29,2023-09-29,none
+124,chipotle,SALAD,Chips,1.7,none,2023-09-29,2023-09-29,none
+125,chipotle,SALAD,Chips & Guacamole,4.3,none,2023-09-29,2023-09-29,none
+126,chipotle,SALAD,Large Chips & Large Guacamole,7.65,none,2023-09-29,2023-09-29,none
+127,chipotle,SALAD,Chips & Fresh Tomato Salsa,2.15,none,2023-09-29,2023-09-29,none
+128,chipotle,SALAD,Chips & Tomatillo-Red Chili Salsa,2.15,none,2023-09-29,2023-09-29,none
+129,chipotle,SALAD,Chips & Tomatillo-Green Chili Salsa,2.15,none,2023-09-29,2023-09-29,none
+130,chipotle,SALAD,Chips & Roasted Chili-Corn Salsa,2.15,none,2023-09-29,2023-09-29,none
+131,chipotle,SALAD,Chips & Queso Blanco,4.3,none,2023-09-29,2023-09-29,none
+132,chipotle,SALAD,Large Chips & Large Queso Blanco,7.65,none,2023-09-29,2023-09-29,none
+133,chipotle,SALAD,Side of Guacamole,2.6,none,2023-09-29,2023-09-29,none
+134,chipotle,SALAD,Large Side of Guacamole,5.2,none,2023-09-29,2023-09-29,none
+135,chipotle,SALAD,Side of Queso Blanco,2.6,none,2023-09-29,2023-09-29,none
+136,chipotle,SALAD,Large Side of Queso Blanco,5.2,none,2023-09-29,2023-09-29,none
+137,chipotle,SALAD,Tortilla on the Side,0.5,none,2023-09-29,2023-09-29,none
+138,chipotle,SALAD,Fountain Drink,2.9,none,2023-09-29,2023-09-29,none
+139,chipotle,SALAD,Mexican Coca-Cola,3.15,none,2023-09-29,2023-09-29,none
+140,chipotle,SALAD,Mexican Sprite,3.15,none,2023-09-29,2023-09-29,none
+141,chipotle,SALAD,Tractor Organic Black Tea,3.2,none,2023-09-29,2023-09-29,none
+142,chipotle,SALAD,Tractor Organic Lemonade,3.2,none,2023-09-29,2023-09-29,none
+143,chipotle,SALAD,San Pellegrino Sparkling ,2.85,none,2023-09-29,2023-09-29,none
+144,chipotle,SALAD,Blackberry Izze,2.95,none,2023-09-29,2023-09-29,none
+145,chipotle,SALAD,Grapefruit Izze,2.95,none,2023-09-29,2023-09-29,none
+146,chipotle,SALAD,Bottled Water,2.65,none,2023-09-29,2023-09-29,none
+147,chipotle,SALAD,Apple Juice,2.95,none,2023-09-29,2023-09-29,none
+148,chipotle,SALAD,Peach Orange Juice,2.95,none,2023-09-29,2023-09-29,none
+149,chipotle,SALAD,Pineapple Orange Banana Juice,2.95,none,2023-09-29,2023-09-29,none
+150,chipotle,TACOS,Carne Asada,11.2,none,2023-09-29,2023-09-29,none
+151,chipotle,TACOS,Chicken,8.2,none,2023-09-29,2023-09-29,none
+152,chipotle,TACOS,Steak,9.95,none,2023-09-29,2023-09-29,none
+153,chipotle,TACOS,Barbacoa,9.95,none,2023-09-29,2023-09-29,none
+154,chipotle,TACOS,Carnitas,8.85,none,2023-09-29,2023-09-29,none
+155,chipotle,TACOS,Sofritas,8.2,none,2023-09-29,2023-09-29,none
+156,chipotle,TACOS,Veggie,8.2,none,2023-09-29,2023-09-29,none
+157,chipotle,TACOS,Guacamole,2.6,none,2023-09-29,2023-09-29,none
+158,chipotle,TACOS,Queso Blanco,1.45,none,2023-09-29,2023-09-29,none
+159,chipotle,TACOS,Chips,1.7,none,2023-09-29,2023-09-29,none
+160,chipotle,TACOS,Chips & Guacamole,4.3,none,2023-09-29,2023-09-29,none
+161,chipotle,TACOS,Large Chips & Large Guacamole,7.65,none,2023-09-29,2023-09-29,none
+162,chipotle,TACOS,Chips & Fresh Tomato Salsa,2.15,none,2023-09-29,2023-09-29,none
+163,chipotle,TACOS,Chips & Tomatillo-Red Chili Salsa,2.15,none,2023-09-29,2023-09-29,none
+164,chipotle,TACOS,Chips & Tomatillo-Green Chili Salsa,2.15,none,2023-09-29,2023-09-29,none
+165,chipotle,TACOS,Chips & Roasted Chili-Corn Salsa,2.15,none,2023-09-29,2023-09-29,none
+166,chipotle,TACOS,Chips & Queso Blanco,4.3,none,2023-09-29,2023-09-29,none
+167,chipotle,TACOS,Large Chips & Large Queso Blanco,7.65,none,2023-09-29,2023-09-29,none
+168,chipotle,TACOS,Side of Guacamole,2.6,none,2023-09-29,2023-09-29,none
+169,chipotle,TACOS,Large Side of Guacamole,5.2,none,2023-09-29,2023-09-29,none
+170,chipotle,TACOS,Side of Queso Blanco,2.6,none,2023-09-29,2023-09-29,none
+171,chipotle,TACOS,Large Side of Queso Blanco,5.2,none,2023-09-29,2023-09-29,none
+172,chipotle,TACOS,Tortilla on the Side,0.5,none,2023-09-29,2023-09-29,none
+173,chipotle,TACOS,Fountain Drink,2.9,none,2023-09-29,2023-09-29,none
+174,chipotle,TACOS,Mexican Coca-Cola,3.15,none,2023-09-29,2023-09-29,none
+175,chipotle,TACOS,Mexican Sprite,3.15,none,2023-09-29,2023-09-29,none
+176,chipotle,TACOS,Tractor Organic Black Tea,3.2,none,2023-09-29,2023-09-29,none
+177,chipotle,TACOS,Tractor Organic Lemonade,3.2,none,2023-09-29,2023-09-29,none
+178,chipotle,TACOS,San Pellegrino Sparkling ,2.85,none,2023-09-29,2023-09-29,none
+179,chipotle,TACOS,Blackberry Izze,2.95,none,2023-09-29,2023-09-29,none
+180,chipotle,TACOS,Grapefruit Izze,2.95,none,2023-09-29,2023-09-29,none
+181,chipotle,TACOS,Bottled Water,2.65,none,2023-09-29,2023-09-29,none
+182,chipotle,TACOS,Apple Juice,2.95,none,2023-09-29,2023-09-29,none
+183,chipotle,TACOS,Peach Orange Juice,2.95,none,2023-09-29,2023-09-29,none
+184,chipotle,TACOS,Pineapple Orange Banana Juice,2.95,none,2023-09-29,2023-09-29,none
+185,chipotle,CHIPS & SIDES,Chips,1.7,none,2023-09-29,2023-09-29,none
+186,chipotle,CHIPS & SIDES,Chips & Guacamole,4.3,none,2023-09-29,2023-09-29,none
+187,chipotle,CHIPS & SIDES,Large Chips & Large Guacamole,7.65,none,2023-09-29,2023-09-29,none
+188,chipotle,CHIPS & SIDES,Chips & Fresh Tomato Salsa,2.15,none,2023-09-29,2023-09-29,none
+189,chipotle,CHIPS & SIDES,Chips & Tomatillo-Red Chili Salsa,2.15,none,2023-09-29,2023-09-29,none
+190,chipotle,CHIPS & SIDES,Chips & Tomatillo-Green Chili Salsa,2.15,none,2023-09-29,2023-09-29,none
+191,chipotle,CHIPS & SIDES,Chips & Roasted Chili-Corn Salsa,2.15,none,2023-09-29,2023-09-29,none
+192,chipotle,CHIPS & SIDES,Chips & Queso Blanco,4.3,none,2023-09-29,2023-09-29,none
+193,chipotle,CHIPS & SIDES,Large Chips & Large Queso Blanco,7.65,none,2023-09-29,2023-09-29,none
+194,chipotle,CHIPS & SIDES,Side of Guacamole,2.6,none,2023-09-29,2023-09-29,none
+195,chipotle,CHIPS & SIDES,Large Side of Guacamole,5.2,none,2023-09-29,2023-09-29,none
+196,chipotle,CHIPS & SIDES,Side of Queso Blanco,2.6,none,2023-09-29,2023-09-29,none
+197,chipotle,CHIPS & SIDES,Large Side of Queso Blanco,5.2,none,2023-09-29,2023-09-29,none
+198,chipotle,CHIPS & SIDES,Tortilla on the Side,0.5,none,2023-09-29,2023-09-29,none
+199,chipotle,DRINKS,Fountain Drink,2.9,none,2023-09-29,2023-09-29,none
+200,chipotle,DRINKS,Mexican Coca-Cola,3.15,none,2023-09-29,2023-09-29,none
+201,chipotle,DRINKS,Mexican Sprite,3.15,none,2023-09-29,2023-09-29,none
+202,chipotle,DRINKS,Tractor Organic Black Tea,3.2,none,2023-09-29,2023-09-29,none
+203,chipotle,DRINKS,Tractor Organic Lemonade,3.2,none,2023-09-29,2023-09-29,none
+204,chipotle,DRINKS,San Pellegrino Sparkling ,2.85,none,2023-09-29,2023-09-29,none
+205,chipotle,DRINKS,Blackberry Izze,2.95,none,2023-09-29,2023-09-29,none
+206,chipotle,DRINKS,Grapefruit Izze,2.95,none,2023-09-29,2023-09-29,none
+207,chipotle,DRINKS,Bottled Water,2.65,none,2023-09-29,2023-09-29,none
+208,chipotle,DRINKS,Apple Juice,2.95,none,2023-09-29,2023-09-29,none
+209,chipotle,DRINKS,Peach Orange Juice,2.95,none,2023-09-29,2023-09-29,none
+210,chipotle,DRINKS,Pineapple Orange Banana Juice,2.95,none,2023-09-29,2023-09-29,none
+211,chipotle,KID'S BUILD YOUR OWN,Carne Asada,4.95,none,2023-09-29,2023-09-29,none
+212,chipotle,KID'S BUILD YOUR OWN,Chicken,4.95,none,2023-09-29,2023-09-29,none
+213,chipotle,KID'S BUILD YOUR OWN,Steak,4.95,none,2023-09-29,2023-09-29,none
+214,chipotle,KID'S BUILD YOUR OWN,Barbacoa,4.95,none,2023-09-29,2023-09-29,none
+215,chipotle,KID'S BUILD YOUR OWN,Carnitas,4.95,none,2023-09-29,2023-09-29,none
+216,chipotle,KID'S BUILD YOUR OWN,Sofritas,4.95,none,2023-09-29,2023-09-29,none
+217,chipotle,KID'S BUILD YOUR OWN,Queso Blanco,4.95,none,2023-09-29,2023-09-29,none
+218,chipotle,KID'S BUILD YOUR OWN,Guacamole,4.95,none,2023-09-29,2023-09-29,none
+219,chipotle,KID'S QUESADILLA,Carne Asada,4.5,none,2023-09-29,2023-09-29,none
+220,chipotle,KID'S QUESADILLA,Chicken,4.5,none,2023-09-29,2023-09-29,none
+221,chipotle,KID'S QUESADILLA,Steak,4.5,none,2023-09-29,2023-09-29,none
+222,chipotle,KID'S QUESADILLA,Barbacoa,4.5,none,2023-09-29,2023-09-29,none
+223,chipotle,KID'S QUESADILLA,Carnitas,4.5,none,2023-09-29,2023-09-29,none
+224,chipotle,KID'S QUESADILLA,Guacamole,4.5,none,2023-09-29,2023-09-29,none
+225,chipotle,KID'S QUESADILLA,Sofritas,4.5,none,2023-09-29,2023-09-29,none
+226,chipotle,KID'S QUESADILLA,Cheese Only,3.95,none,2023-09-29,2023-09-29,none
